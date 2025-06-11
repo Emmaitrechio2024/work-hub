@@ -30,7 +30,7 @@ This is a simple PHP + MySQL web app where students can:
 
 ## 🧪 Setup Instructions
 1. Import `database.sql` into your MySQL server
-2. Update `db_connect.php` with your DB credentials
+2. Update `connect.php` with your DB credentials
 3. Run with XAMPP, WAMP, or any local PHP server
 4. Access via `localhost/project-folder/register.php`
 
@@ -48,4 +48,4 @@ This is a simple PHP + MySQL web app where students can:
 
 ---
 
-
+## 🔗 Live Link : http://nerdhub.infinityfreeapp.com/index.php

@@ -48,4 +48,4 @@ This is a simple PHP + MySQL web app where students can:
 
 ---
 
-## 🔗 Live Link : http://nerdhub.infinityfreeapp.com/index.php
+## 🔗 Live Link : nerdhub.infinityfreeapp.com
